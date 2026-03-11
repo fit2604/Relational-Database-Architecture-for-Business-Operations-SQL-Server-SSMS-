@@ -1,0 +1,1 @@
+# Relational-Database-Architecture-for-Business-Operations-SQL-Server-SSMS-
