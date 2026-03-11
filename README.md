@@ -47,5 +47,5 @@ f_Depaseste_Prag: A logic gate (Boolean) that checks if a salesperson has exceed
 Data Abstraction: The vAngajati view provides a clean, joined interface of employee names, departments, and salaries, hiding the underlying complexity of multiple joins.
 
 
-Conclusion
+Conclusion:
 This database serves as a complete backend solution for managing a company's core operations. By centralizing HR, inventory, and sales, it transforms raw data into a structured environment ready for professional reporting and decision-making.
